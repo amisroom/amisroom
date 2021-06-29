@@ -16,9 +16,11 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on My Blog, Github Project
+- 🔭 I’m currently working on Github Project, and blog.
+  
+- 💻 I’m currently looking for a front-end developer job. 
 
-- 🌱 I’m currently learning React.js 
+- 🌱 I’m currently learning React.js. 
 
 - 👯 I’m looking to collaborate on  
 
