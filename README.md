@@ -1,10 +1,7 @@
 <h1> Hello, I am Ami Murase! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='left'>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=amisroom.amisroom)
-        <br>
-
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/amisroom)
-  <a href="https://github.com/amisroom/amisroom/">
+<br>
+<a href="https://github.com/amisroom/amisroom/">
     <img height="22" src="https://komarev.com/ghpvc/?username=amisroom" alt="amisroom" />
   </a>
       <a href="http://twitter.com/ami_webdev">
@@ -17,6 +14,7 @@
       </p>
       <div size='20px'> Hi! My name is Ami. Thank You for taking the time to view my GitHub Profile :smile: 
       </div>
+      
       - 🔭 I’m currently working on Github Project, and blog.
       <br>
       - 💻 I’m currently looking for a front-end developer job. 
@@ -35,11 +33,8 @@
       <a href= https://github.com/amisroom?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
       <a href= https://github.com/amisroom?tab=repositories&q=&type=&language=firebase&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/firebase.svg'> </a>
       <a href= https://github.com/amisroom?tab=repositories&q=&type=&language=photoshop&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/photoshop.svg'> </a>
+      <a href= https://github.com/amisroom?tab=repositories&q=&type=&language=git&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
       
-      
-<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
+<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='50px'> </h2>
       
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
-      
-      
